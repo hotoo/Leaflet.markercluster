@@ -1,6 +1,8 @@
 Leaflet.markercluster
 =====================
 
+----
+
 Provides Beautiful Animated Marker Clustering functionality for [Leaflet](http://leafletjs.com), a JS library for interactive maps.
 
 *Requires Leaflet 0.7.0 or newer.*

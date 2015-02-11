@@ -5,3 +5,6 @@ obj
 # mstest test results
 TestResults
 node_modules
+.DS_Store
+_site/
+spm_modules/
