@@ -1,6 +1,6 @@
 {
   "name": "leaflet.markercluster",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
   "dependencies": {
     "leaflet": "~0.7.1"
@@ -18,7 +18,7 @@
     "prepublish": "jake"
   },
   "spm": {
-    "main": "dist/leaflet.markercluster.js",
+    "main": "leaflet.markercluster.js",
     "dependencies": {
       "leaflet": "~0.7.3"
     },
